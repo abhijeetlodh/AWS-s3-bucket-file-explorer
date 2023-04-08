@@ -1,0 +1,14 @@
+/* CSS Styles for S3 Bucket File Explorer */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #app {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
