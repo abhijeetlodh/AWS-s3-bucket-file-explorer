@@ -25,7 +25,7 @@ Before running the S3 Bucket File Explorer script, you must have the following i
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/your-username/s3-bucket-file-explorer.git
+1. Clone the repository: git clone [https://github.com/your-username/s3-bucket-file-explorer.git](https://github.com/abhijeetlodh/AWS-s3-bucket-file-explorer.git)
 
 2. Install dependencies: npm install
 
